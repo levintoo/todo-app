@@ -5,7 +5,10 @@
                 <div class="card">
                     <div class="card-header">Todolist Component</div>
                     <div class="card-body">
-                        I'm a todolist component.
+                        I'm a todolist componenti.
+                    </div>
+                    <div class="card-body">
+                        Hello from vue;
                     </div>
                 </div>
             </div>
