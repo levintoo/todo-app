@@ -20,7 +20,7 @@ window.Vue = require('vue').default;
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 // Vue.component('app-component', require('./components/ExampleComponent.vue'));
-Vue.component('app-component', require('./components/TodolistComponent.vue').default);
+Vue.component('app-component', require('./components/app.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
