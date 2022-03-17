@@ -20,3 +20,18 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+.todoListcontainer {
+    width: 350px;
+    margin: auto;
+}
+ .heading{
+     background: #efefef;
+     padding: 10px;
+ }
+
+ #title{
+     text-align: center;
+ }
+</style>
