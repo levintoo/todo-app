@@ -10,7 +10,7 @@
 
 
 <script>
-import addItemForm from "./addItemFormComponent"
+import addItemForm from "./addItemForm"
 import listView from "./listView"
 
 export default {

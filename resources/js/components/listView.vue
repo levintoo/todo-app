@@ -7,7 +7,7 @@
 <script>
 export default {
     mounted() {
-        console.log('listView Component mounted.')
+        console.log('listView mounted.')
     }
 }
 </script>
